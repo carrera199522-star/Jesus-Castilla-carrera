@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hola, soy Jesús Castilla
+<img src="https://github.com/carrera199522-star.png" width="180">
+
+# 👋 Jesús Castilla
 
 ### 💻 Técnico en Computación e Informática | Power BI | Excel VBA | SQL Server
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=25&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+de+Sistemas;Especialista+en+Excel+VBA+y+Power+BI;Apasionado+por+la+Automatización+y+los+Datos" />
+</div>
+
+
 
 </div>
 
@@ -12,15 +16,45 @@
 
 ## 🚀 Sobre mí
 
-Soy un profesional apasionado por la tecnología y la mejora continua.
+Soy Técnico en Computación e Informática con experiencia en tecnología, logística y gestión de almacenes.
 
-Me especializo en:
+Durante mi trayectoria he participado en actividades relacionadas con:
 
-* 📊 Desarrollo de Dashboards en Power BI
-* 📈 Automatización de procesos con Excel VBA
-* 🗄️ Bases de Datos SQL Server
-* 💻 Desarrollo de Sistemas de Gestión
-* 📱 Desarrollo de Aplicaciones Android
+* 📊 Desarrollo de Dashboards en Power BI.
+* 📈 Automatización de procesos mediante Excel y VBA.
+* 🗄️ Administración y consultas en SQL Server.
+* 📦 Control de Inventarios y Almacenes.
+* 🚚 Gestión de despachos y logística.
+* 📄 Emisión de Guías de Remisión Electrónicas mediante el portal SUNAT.
+* 🏭 Manejo de procesos utilizando SAP S/4HANA.
+* 📱 Desarrollo de aplicaciones y sistemas para la optimización de procesos.
+
+### 💼 Experiencia y Conocimientos
+
+✅ Power BI
+
+✅ Excel Avanzado
+
+✅ VBA
+
+✅ SQL Server
+
+✅ SAP S/4HANA
+
+✅ Control de Inventarios
+
+✅ Gestión de Almacenes
+
+✅ Emisión de Guías de Remisión SUNAT
+
+✅ Análisis de Datos
+
+✅ Desarrollo de Sistemas
+
+✅ Android Studio
+
+✅ Automatización de Reportes
+
 
 Actualmente trabajo en proyectos relacionados con:
 
@@ -96,11 +130,12 @@ Actualmente trabajo en proyectos relacionados con:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carrera199522-star&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrera199522-star&layout=compact&theme=tokyonight"/>
 
-</p>
+</p
+
 
 ---
 
@@ -114,6 +149,8 @@ Actualmente trabajo en proyectos relacionados con:
 ---
 
 ## 📫 Contacto
+
+📧 Email: <a href="mailto:tucorreo@gmail.com">carrera1995.22@gmail.com</a>
 
 📍 Chincha - Perú
 
