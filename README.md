@@ -2,131 +2,153 @@
 
 <img src="https://github.com/carrera199522-star.png" width="180">
 
-# 👋 Jesús Castilla
+# 👋 Jesús Castilla Carrera
 
-### 💻 Técnico en Computación e Informática | Power BI | Excel VBA | SQL Server
+### Técnico en Computación e Informática
 
-</div>
-
-
+📊 Power BI • 📈 Excel VBA • 🗄️ SQL Server • 🏭 SAP S/4HANA
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-Soy Técnico en Computación e Informática con experiencia en tecnología, logística y gestión de almacenes.
+Soy Técnico en Computación e Informática con experiencia en desarrollo de sistemas, análisis de datos y gestión de almacenes.
 
-Durante mi trayectoria he participado en actividades relacionadas con:
-
-* 📊 Desarrollo de Dashboards en Power BI.
-* 📈 Automatización de procesos mediante Excel y VBA.
-* 🗄️ Administración y consultas en SQL Server.
-* 📦 Control de Inventarios y Almacenes.
-* 🚚 Gestión de despachos y logística.
-* 📄 Emisión de Guías de Remisión Electrónicas mediante el portal SUNAT.
-* 🏭 Manejo de procesos utilizando SAP S/4HANA.
-* 📱 Desarrollo de aplicaciones y sistemas para la optimización de procesos.
-
-### 💼 Experiencia y Conocimientos
-
-✅ Power BI
+### Experiencia
 
 ✅ Excel Avanzado
 
 ✅ VBA
 
+✅ Power BI
+
 ✅ SQL Server
 
 ✅ SAP S/4HANA
 
-✅ Control de Inventarios
+✅ Gestión de Inventarios
 
-✅ Gestión de Almacenes
+✅ Control de Almacén
 
-✅ Emisión de Guías de Remisión SUNAT
+✅ Recepción de Materia Prima
 
-✅ Análisis de Datos
+✅ Guías de Remisión Electrónicas SUNAT
 
-✅ Desarrollo de Sistemas
-
-✅ Android Studio
-
-✅ Automatización de Reportes
-
-
-Actualmente trabajo en proyectos relacionados con:
-
-✅ Sistemas de Ventas
-✅ Sistemas de Inventario
-✅ Control de Almacenes
 ✅ Indicadores de Gestión
-✅ Automatización de Reportes
+
+✅ Automatización de Procesos
 
 ---
 
-## 🛠 Tecnologías
+# 💼 Experiencia Laboral
+
+### Asistente de Almacén
+
+* Control de ingresos y salidas.
+* Gestión de stock.
+* Recepción de materia prima.
+* Emisión de guías de remisión.
+* Control documentario.
+
+### SAP S/4HANA
+
+* Registro y consulta de operaciones.
+* Gestión de inventario.
+* Seguimiento de movimientos de almacén.
+
+### SUNAT
+
+* Emisión de Guías de Remisión Electrónicas.
+* Validación de información tributaria.
+
+---
+
+# 📊 Dashboard Power BI - Ingreso de Fruta
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,androidstudio,github" />
-
+<img src="Imagenes/ingreso_fruta.jpg" width="100%">
 </p>
+
+---
+
+# 📊 Dashboard Power BI - Ventas e Inventario
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/VBA-008000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge"/>
-
+<img src="Imagenes/sistema de Venta.png" width="100%">
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+# 🍊 Sistema de Recepción de Materia Prima
 
-### 🛒 Sistema de Ventas
-
-* Registro de Ventas
-* Gestión de Clientes
-* Control de Productos
-* Reportes Automáticos
-* Excel VBA + SQL Server
+<p align="center">
+<img src="Imagenes/Registro_fruta.jpg" width="90%">
+</p>
 
 ---
 
-### 📦 Sistema de Inventario
+# 🏷️ Generador de Lotes Correlativos
 
-* Entradas y Salidas
-* Kardex Automático
-* Control de Stock
-* Alertas de Existencias
-
----
-
-### 📊 Dashboard Power BI
-
-* Indicadores KPI
-* Análisis de Ventas
-* Control de Producción
-* Visualización de Datos
+<p align="center">
+<img src="Imagenes/Ingreso_de_lotes.jpg" width="90%">
+</p>
 
 ---
 
-### 📱 Aplicación Android
+# 📦 Gestión de Productos
 
-* Distribución de Jabas
-* Gestión de Producción
-* Cálculos Automáticos
+<p align="center">
+<img src="Imagenes/Informacion_producto.png" width="90%">
+</p>
 
 ---
 
-## 📈 Estadísticas GitHub
+# 🚚 Gestión de Proveedores
+
+<p align="center">
+<img src="Imagenes/Ingreso_cliente.png" width="90%">
+</p>
+
+---
+
+# 📋 Rótulos de Recepción
+
+<p align="center">
+<img src="Imagenes/ROTULOS.jpg" width="90%">
+</p>
+
+---
+
+# 📤 Registro de Salidas
+
+<p align="center">
+<img src="Imagenes/registro_salida_vba.jpg" width="90%">
+</p>
+
+---
+
+# ⚖️ Sistema de Pesos y Medidas
+
+<p align="center">
+<img src="Imagenes/pesos_medidas.jpg" width="90%">
+</p>
+
+---
+
+# 🛠 Tecnologías
+
+* Excel VBA
+* Power BI
+* SQL Server
+* SAP S/4HANA
+* Android Studio
+* GitHub
+
+---
+
+# 📈 Estadísticas GitHub
 
 <p align="center">
 
@@ -134,35 +156,21 @@ Actualmente trabajo en proyectos relacionados con:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrera199522-star&layout=compact&theme=tokyonight"/>
 
-</p
-
-
----
-
-## 🎯 Objetivos
-
-* Seguir aprendiendo nuevas tecnologías
-* Crear soluciones empresariales
-* Compartir conocimientos
-* Desarrollar sistemas cada vez más completos
+</p>
 
 ---
 
-## 📫 Contacto
-
-📧 Email: <a href="mailto:tucorreo@gmail.com">carrera1995.22@gmail.com</a>
-
-📍 Chincha - Perú
+# 📫 Contacto
 
 💼 Técnico en Computación e Informática
 
+📍 Chincha - Perú
+
+📧 Email: <a href="mailto:tucorreo@gmail.com">carrera1995.22@gmail.com</a>
+
 🚀 Siempre aprendiendo y desarrollando nuevas soluciones.
 
----
-
-<div align="center">
-
-### ⭐ Gracias por visitar mi perfil ⭐
+⭐ Gracias por visitar mi perfil.
 
 </div>
 
